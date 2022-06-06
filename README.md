@@ -1,2 +1,2 @@
-# Drum-kit-
-Drum sounds
+# Drum-kit-project
+Cool Drum sounds
