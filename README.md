@@ -1,2 +1,2 @@
 # Drum-kit-project
-Cool Drum sounds
+Cool Drum sounds, project i made in javascript.
